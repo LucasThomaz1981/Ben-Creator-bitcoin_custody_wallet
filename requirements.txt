@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+SQLAlchemy
+Flask-SQLAlchemy
+requests
+cryptography
+bitcoinlib
+aiohttp
+
+
